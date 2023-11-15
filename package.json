@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ChrisValDev/curso-API-REST-JavaScript-ejemplos-reales.git"
+  },
+  "author": "ChrisValDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChrisValDev/curso-API-REST-JavaScript-ejemplos-reales/issues"
+  },
+  "homepage": "https://github.com/ChrisValDev/curso-API-REST-JavaScript-ejemplos-reales#readme"
+}
