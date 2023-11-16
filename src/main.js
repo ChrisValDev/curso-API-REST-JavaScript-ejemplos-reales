@@ -48,7 +48,3 @@ async function getCategoriesPreview() {
         previewCategoriesContainer.appendChild(categoryContainer);
     });
 }
-
-
-getTrendingMoviesPreview();
-getCategoriesPreview();
